@@ -49,5 +49,5 @@ python main.py
 
 ## Membros da Dupla
 
-Victoria Larissa
-Mariah Aparecida
+- Victoria Larissa
+- Mariah Aparecida
