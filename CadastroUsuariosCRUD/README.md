@@ -45,3 +45,9 @@ python main.py
 - SQLite
 - Tkinter
 - Cryptography
+---
+
+## Membros da Dupla
+
+Victoria Larissa
+Mariah Aparecida
